@@ -10,9 +10,6 @@ public class _232ImplementQueueusingStacks {
     Stack<Integer> stack;
     Stack<Integer> queue;
 
-    /**
-     * Fellow up O(1) solution
-     */
     public _232ImplementQueueusingStacks() {
         stack = new Stack<>();
         queue = new Stack<>();
