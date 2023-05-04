@@ -8,7 +8,7 @@ import java.util.*;
  * @LastEditors: mianmiantea2019
  * @Description:
  */
-public class _352_DataStreamasDisjointIntervals {
+public class _352DataStreamasDisjointIntervals {
     TreeSet<int[]> set = new TreeSet<>((a, b)->{
         if(a[0] == b[0]) return a[1] - b[1];
         return a[0] - b[0];
