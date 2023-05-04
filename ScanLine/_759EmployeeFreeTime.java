@@ -11,7 +11,7 @@ import java.util.PriorityQueue;
  * @Description:
  */
 
-public class _759_EmployeeFreeTime {
+public class _759EmployeeFreeTime {
     class Interval {
         public int start;
         public int end;
