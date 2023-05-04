@@ -9,7 +9,7 @@ import java.util.Arrays;
  * @Description:
  */
 
-public class _435_Non_overlappingIntervals {
+public class _435NonoverlappingIntervals {
     public int eraseOverlapIntervals(int[][] intervals) {
         if(intervals.length == 0) return 0;
 
