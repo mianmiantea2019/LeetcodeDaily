@@ -16,7 +16,6 @@ public class _930BinarySubarraysWithSum {
         int count = 0, sum = 0;
         for (int num : nums) {
             map.put(sum, map.getOrDefault(sum, 0) + 1);
-            System.out.println(map);
             sum += num;
             count += map.getOrDefault(sum - goal, 0);
         }
