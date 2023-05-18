@@ -1,4 +1,4 @@
-package dynamicProgramming;
+package DynamicProgramming;
 
 import java.util.Arrays;
 
@@ -9,21 +9,18 @@ import java.util.Arrays;
  * @Description:
  */
 
-public class _62_UniquePaths {
+public class _62UniquePaths {
     public int uniquePaths(int m, int n) {
-        int[][] f = new int[m][n];
-        for(int i = 0; i <m; i++){
-            for(int j = 0; j < n; j++){
-                if(i == 0 || j== 0){
-                    f[i][j] = 1;
-                }else{
-                    f[i][j] = f[i-1][j]+f[i][j-1];
+        int[][] grid = new int[m][n];
+        for (int i = 0; i < m ; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == 0 || j == 0) {
+                    grid[i][j] = 1;
+                } else {
+                    grid[i][j] = grid[i-1][j] + grid[i][j-1];
                 }
             }
         }
-        for(int i = 0; i < m; i++){
-            System.out.println(Arrays.toString(f[i]));
-        }
-        return f[m-1][n-1];
+        return grid[m-1][n-1];
     }
 }
