@@ -20,14 +20,14 @@
 | 733 FloodFill | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/_733FloodFill.java/) |  |
 | RemoveNthFromEnd | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/removeNthFromEnd.java/) | |
 | :label: **Design** | 
-| _1381DesignaStackWithIncrementOperation | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_1381DesignaStackWithIncrementOperation.java/) |  |
-| _155MinStack | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_155MinStack.java/) | |
-| _232ImplementQueueusingStacks | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_232ImplementQueueusingStacks.java/) |  |
-| _622DesignCircularQueue | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_622DesignCircularQueue.java/) | |
-| _641DesignCircularDeque | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_641DesignCircularDeque.java/) | |
+| 138 1DesignaStackWithIncrementOperation | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_1381DesignaStackWithIncrementOperation.java/) |  |
+| 155 MinStack | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_155MinStack.java/) | |
+| 232 ImplementQueueusingStacks | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_232ImplementQueueusingStacks.java/) |  |
+| 622 DesignCircularQueue | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_622DesignCircularQueue.java/) | |
+| 641 DesignCircularDeque | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Design/_641DesignCircularDeque.java/) | |
 | :label: **Graph** | 
-| _133CloneGraph | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_133CloneGraph.java/) |  [Test](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_133CloneGraphTest.java) |
-| _670MaximumSwap | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_670MaximumSwap.java/) | [Test](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_670MaximumSwapTest.java) |
+| 133 CloneGraph | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_133CloneGraph.java/) |  [Test](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_133CloneGraphTest.java) |
+| 670 MaximumSwap | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_670MaximumSwap.java/) | [Test](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_670MaximumSwapTest.java) |
 | :label: **Greedy** | 
-| _990SatisfiabilityofEqualityEquations | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_990SatisfiabilityofEqualityEquations.java) |  |
+| 990 SatisfiabilityofEqualityEquations | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Graph/_990SatisfiabilityofEqualityEquations.java) |  |
 
