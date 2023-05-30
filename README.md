@@ -3,19 +3,19 @@
 
 | **BinarySearch** | Code | Test |
 | :--- | :---: | :---: |
-| _59SpiralMatrixII | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinarySearch/_59SpiralMatrixII.java) |  |
-| _704BinarySearch | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinarySearch/_704BinarySearch.java) |  |
-| _930BinarySubarraysWithSum | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinarySearch/_930BinarySubarraysWithSum.java) |  |
+| 59 SpiralMatrixII | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinarySearch/_59SpiralMatrixII.java) |  |
+| 704 BinarySearch | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinarySearch/_704BinarySearch.java) |  |
+| 930 BinarySubarraysWithSum | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinarySearch/_930BinarySubarraysWithSum.java) |  |
 | **BinaryTree** |  |  |
-| _110BalancedBinaryTree | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinaryTree/_110BalancedBinaryTree.java) |  |
-| _144BinaryTreePreorderTraversal | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinaryTree/_144BinaryTreePreorderTraversal.java) |  |
-| _226InvertBinaryTree | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinarySearch/_930BinarySubarraysWithSum.java) |  |
-| _235LowestCommonAncestorofaBinarySearchTree | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinaryTree/_226InvertBinaryTree.java) |  |
-| _236LowestCommonAncestorofaBinaryTree | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinaryTree/_236LowestCommonAncestorofaBinaryTree.java) |  |
+| 110 BalancedBinaryTree | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinaryTree/_110BalancedBinaryTree.java) |  |
+| 144 BinaryTreePreorderTraversal | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinaryTree/_144BinaryTreePreorderTraversal.java) |  |
+| 226 InvertBinaryTree | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinarySearch/_930BinarySubarraysWithSum.java) |  |
+| 235 LowestCommonAncestorofaBinarySearchTree | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinaryTree/_226InvertBinaryTree.java) |  |
+| 236 LowestCommonAncestorofaBinaryTree | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/BinaryTree/_236LowestCommonAncestorofaBinaryTree.java) |  |
 | **Counting** |
-| _169MajorityElement| [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Counting/_169MajorityElement.java) |  |
+| 169 MajorityElement| [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/Counting/_169MajorityElement.java) |  |
 | **DFS** | 
-| _130SurroundedRegions | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/_130SurroundedRegions.java/) |  |
-| _463IslandPerimeter.java | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/_17LetterCombinationsofaPhoneNumber.java/) | |
-| _733FloodFill.java | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/_733FloodFill.java/) |  |
-| removeNthFromEnd.java | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/removeNthFromEnd.java/) | |
+| 130 SurroundedRegions | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/_130SurroundedRegions.java/) |  |
+| 463 IslandPerimeter | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/_17LetterCombinationsofaPhoneNumber.java/) | |
+| 733 FloodFill | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/_733FloodFill.java/) |  |
+| RemoveNthFromEnd | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/DFS/removeNthFromEnd.java/) | |
