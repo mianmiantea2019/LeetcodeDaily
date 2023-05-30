@@ -13,7 +13,6 @@ public class _1381DesignaStackWithIncrementOperation {
 
     public _1381DesignaStackWithIncrementOperation(int maxSize) {
         arr = new int[maxSize];
-
         stack = new Stack<>();
         this.maxSize = maxSize;
     }
@@ -21,9 +20,7 @@ public class _1381DesignaStackWithIncrementOperation {
     public void push(int x) {
         if(!isFull()){
             stack.push(x);
-
         }
-
     }
 
     public int pop() {
@@ -44,7 +41,6 @@ public class _1381DesignaStackWithIncrementOperation {
         if(increNum>= 0){
             arr[increNum] += val;
         }
-
     }
 
     private boolean isFull(){
