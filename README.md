@@ -57,7 +57,7 @@
 | :label: **Sorting** | 
 | :label: **Stack** | 
 | :label: **DynamicProgramming** | 
-| 121BestTimetoBuyandSellStock | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/dynamicProgramming/_121BestTimetoBuyandSellStock.java) |   || |
-| 122BestTimetoBuyandSellStockII | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/dynamicProgramming/_122BestTimetoBuyandSellStockII.java) |   || |
-| 198HouseRobber | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/dynamicProgramming/_198HouseRobber.java) |   || |
-| 47MaxGift | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/dynamicProgramming/_47MaxGift.java) |   || |
+| 121 BestTimetoBuyandSellStock | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/dynamicProgramming/_121BestTimetoBuyandSellStock.java) |   || |
+| 122 BestTimetoBuyandSellStockII | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/dynamicProgramming/_122BestTimetoBuyandSellStockII.java) |   || |
+| 198 HouseRobber | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/dynamicProgramming/_198HouseRobber.java) |   || |
+| 47 MaxGift | [Java](https://github.com/mianmiantea2019/LeetcodeDaily/blob/main/dynamicProgramming/_47MaxGift.java) |   || |
